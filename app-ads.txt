@@ -348,7 +348,6 @@ smartadserver.com, 3713, RESELLER
 
 #IRONSOURCE#
 ironsrc.com, 347290, Direct
-Remember to replace [yourironSourcePublisherAccountID] with your account ID, which you can get from your account manager.
 adbility-media.com, 187, RESELLER
 advertising.com, 8693, RESELLER
 algorix.co, 54400, RESELLER, 5b394c12fea27a1d
