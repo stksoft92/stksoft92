@@ -439,6 +439,8 @@ freewheel.tv, 1137745, RESELLER
 freewheel.tv, 1138513, RESELLER
 yeahmobi.com, 5135347, Reseller
 media.net, 8CUO7P3WK, RESELLER
+App-stock.com,256917,RESELLER
+videoheroes.tv, 212550, RESELLER, 064bc410192443d8
 
 #MINTEGRAL#
 mintegral.com, 27519, DIRECT, 0aeed750c80d6423
